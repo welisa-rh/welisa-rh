@@ -34,18 +34,6 @@
 ![Qulture.Rocks](https://img.shields.io/badge/Qulture.Rocks-24292f?style=flat)
 ![LinkedIn Recruiter](https://img.shields.io/badge/LinkedIn_Recruiter-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
-## GitHub em números
-
-<div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=welisa-rh&show_icons=true&theme=graywhite&hide_border=true&count_private=true)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=welisa-rh&layout=compact&theme=graywhite&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
 
 📫 **Vamos conversar sobre pessoas, mudança e tecnologia?**
 
